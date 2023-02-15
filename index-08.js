@@ -1,0 +1,1 @@
+// Write a js program to check whether a character is uppercase or lowercase alphabet.
